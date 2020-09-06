@@ -5,3 +5,4 @@
 *.JPEG
 .ipynb_checkpoints
 *.h5
+*.ipynb
