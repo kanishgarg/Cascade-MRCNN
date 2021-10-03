@@ -35,4 +35,6 @@ segmentation) and a (ii) Cascaded mask branch is added that utilises the feature
 diseased region mask
 
 
+Related Work: [```A Hierarchical Framework for Leaf Instance Segmentation: Application to Plant Phenotyping```](https://ieeexplore.ieee.org/abstract/document/9411981)
+
 
