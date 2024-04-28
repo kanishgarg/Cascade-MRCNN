@@ -1,8 +1,7 @@
 # [Automatic-Quantification-of-Plant-Disease-From-Field-Image-Data-Using-Deep-Learning](https://openaccess.thecvf.com/content/WACV2021/papers/Garg_Automatic_Quantification_of_Plant_Disease_From_Field_Image_Data_Using_WACV_2021_paper.pdf)
 
 ## Our Contributions
-* The generation of disease region and leaf instance
-masks in the existing dataset.
+* Leaf instance and disease region annotations of NLB maize dataset having densly overlapping leaves.
 * An end-to-end deep learning framework with multitask loss function for simultaneous segmentation of
 leaf and diseased region using unified feature maps.
 * To the best of our knowledge, this is the first study to
